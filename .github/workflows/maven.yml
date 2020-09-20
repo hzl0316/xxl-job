@@ -29,7 +29,7 @@ jobs:
         # Artifact name
         name: xxl-job
         # A file, directory or wildcard pattern that describes what to upload
-        path: xxl-job/xxl-job.jar
+        path: /home/runner/work/xxl-job/xxl-job/xxl-job-admin/target/xxl-job-admin-2.2.1-SNAPSHOT.jar
         
         
         
